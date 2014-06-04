@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Fiber Miniapp Suite
+layout: top
+title: Fiber
 ---
 
 Fiber is a suite of miniapps that are maintained and developed at RIKEN Advanced Institute for Computational Science (RIKEN AICS).
