@@ -64,7 +64,6 @@ a:visited { color: #205caa; }
 .site-title {
     font-weight: bold;
     font-family: 'bebas_neueregular', Helvetica, Arial, sans-serif;
-    font-style: italic;
 }
 
 .site-nav {
@@ -409,4 +408,17 @@ a:visited { color: #205caa; }
     width: auto;
     margin: 0 0 15px; }
 
+}
+
+.top-logo {
+    margin: 10px 0 30px;
+}
+
+.top-logo h1 {
+  letter-spacing: 5px;
+  line-height: 1;
+  font-size: 120px;
+  font-weight: bold;
+  font-family: 'bebas_neueregular', Helvetica, Arial, sans-serif;
+  font-style: italic;  
 }
