@@ -1,0 +1,11 @@
+# Site settings
+title: Fiber Miniapp Suite
+email: "&#109;&#105;&#110;&#105;&#097;&#112;&#112;&#064;&#114;&#105;&#107;&#101;&#110;&#046;&#106;&#112;"
+description: "Fiber is a suite of miniapps developed and maintained at RIKEN AICS."
+baseurl: ""
+url: "http://fiber-miniapp.github.io"
+username: fiber-miniapp
+
+# Build settings
+markdown: kramdown
+permalink: pretty
