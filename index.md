@@ -8,7 +8,7 @@ Fiber is a suite of miniapps that are maintained and developed at RIKEN Advanced
 ### Miniapps
 
 - **CCS QCD**: A QCD miniapp originally developed by Kenichi Ishikawa (Hiroshima University), et al.
-<br /> [[Download source](https://github.com/fiber-miniapp/ccs-qcd/archive/1.0.zip)] [[View development repository](http://github.com/fiber-miniapp/ccs-qcd)]
+<br /> [[Download source](https://github.com/fiber-miniapp/ccs-qcd/archive/1.1.zip)] [[View development repository](http://github.com/fiber-miniapp/ccs-qcd)]
 - **FFVC-MINI**: A Navier-Stokes solver for 3D unsteady thermal flow of incompressible fluid. Derived from the FFVC simulation program developed by Kenji Ono (RIKEN AICS), et al. <br />
 [[Download source](https://github.com/fiber-miniapp/ffvc-mini/archive/1.0.1.zip)] [[View development repository](http://github.com/fiber-miniapp/ffvc-mini)]
 
