@@ -12,11 +12,11 @@ Fiber is a suite of miniapps that are maintained and developed at RIKEN Advanced
 - **FFVC-MINI**: A Navier-Stokes solver for 3D unsteady thermal flow of incompressible fluid. Derived from the FFVC simulation program developed by Kenji Ono (RIKEN AICS), et al. <br />
 [[Download source](https://github.com/fiber-miniapp/ffvc-mini/archive/1.0.1.zip)] [[View development repository](http://github.com/fiber-miniapp/ffvc-mini)]
 - **NICAM-DC-MINI**: A miniapp based on NICAM-DC that is derived from NICAM (Nonhydrostatic ICosahedral Atmospheric Model).  <br />
-[[Download source](https://github.com/fiber-miniapp/nicam-dc-mini/archive/v1.0.tar.gz)]
+[[Download source](https://github.com/fiber-miniapp/nicam-dc-mini/archive/1.0.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/nicam-dc-mini)]
 - **mVMC-MINI**: A suite of mVMC program and test data.  mVMC analyzes the physical characteristics of the strongly correlated electron systems.
 <br />
-[[Download source](https://github.com/fiber-miniapp/mVMC-mini/archive/v1.0.tar.gz)]
+[[Download source](https://github.com/fiber-miniapp/mVMC-mini/archive/1.0.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/mVMC-mini)]
 
 
