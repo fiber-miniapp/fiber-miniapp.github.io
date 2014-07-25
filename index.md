@@ -18,7 +18,10 @@ Fiber is a suite of miniapps that are maintained and developed at RIKEN Advanced
 <br />
 [[Download source](https://github.com/fiber-miniapp/mVMC-mini/archive/1.0.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/mVMC-mini)]
-
+- **NGS Analyzer-MINI**: A miniapp for genome analysis.  NGS Analyzer performs human genome analysis to identify genetic differences among persons or cancer cell's mutations.
+<br />
+[[Download source](https://github.com/fiber-miniapp/ngsa-mini/archive/1.0.tar.gz)]
+[[View development repository]( https://github.com/fiber-miniapp/ngsa-mini)]
 
 ### Fiber Developers
 
