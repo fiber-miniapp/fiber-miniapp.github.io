@@ -10,5 +10,7 @@ also have the preamble for posts as shown below:
     title: Post Title
     ---
 
+See also the existing post files.
+
 The list of all posts can be found at news.html. Additionally, the
 recent five news items are automatically linked from the top page.
