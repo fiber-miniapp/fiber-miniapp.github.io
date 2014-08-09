@@ -51,5 +51,5 @@ New miniapps and version upgrades will be announced at the [Users Group mailing 
 
 ### Acknowledgments
 
-The initial development of Fiber was part of an HPCI Feasibility Study led by RIKEN AICS and Tokyo Institute of Technology, which was funded by Ministry of Education, Culture, Sports, Science and Technology, Japan.
+The initial development of Fiber was part of an HPCI Feasibility Study project (FY2012-FY2013) led by RIKEN AICS and Tokyo Institute of Technology, which was funded by Ministry of Education, Culture, Sports, Science and Technology, Japan.
 
