@@ -23,6 +23,14 @@ Fiber is a suite of miniapps that are maintained and developed at RIKEN Advanced
 [[Download source](https://github.com/fiber-miniapp/ngsa-mini/archive/1.0.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/ngsa-mini)]
 
+### Documentation
+
+Information on each miniapp, such as build instructions and exeuction configurations, can be found in its own source package. Here's a list of some of the recent slides and papers on the overall Fiber miniapps:
+
+- (*Japanese*) *Fiber Miniapp Overview*, SWoPP 2014 workshop, July 2014. [[slides](https://github.com/fiber-miniapp/fiber/raw/master/fiber-swopp2014-slides.pdf)]
+- *Miniapps for Enabling Architecture-Application Co-design for Exascale Supercomputing*, 19th Workshop on Sustained Simulation Performance, March 2014. [[slides](https://github.com/fiber-miniapp/fiber/raw/master/fiber-wssp2014-slides.pdf)]
+- *Mini-App Effort in Japan*, SC13 BoF: Library of Mini-Applications for Exascale Component-Based Performance Modeling, November 2013. [[slides](https://github.com/fiber-miniapp/fiber/raw/master/fiber-sc13bof-slides.pdf)]
+
 ### Mailing List
 
 New miniapps and version upgrades will be announced at the [Users Group mailing list](https://groups.google.com/d/forum/fiber-miniapp-users). Subscribe the list by sending an empty email to <fiber-miniapp-users+subscribe@googlegroups.com> or get [RSS updates](https://groups.google.com/forum/feed/fiber-miniapp-users/msgs/rss.xml?num=15).
