@@ -5,6 +5,19 @@ title: Fiber
 
 Fiber is a suite of miniapps that are maintained and developed at RIKEN Advanced Institute for Computational Science (RIKEN AICS).
 
+### News
+
+{% comment %}
+See for template syntax and semmatics at https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+{% endcomment %} 
+<ul class="posts">
+{% for post in site.posts limit:5 %}
+<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+See the [full archive of news](news).
+
 ### Miniapps
 
 - **CCS QCD**: A QCD miniapp originally developed by Kenichi Ishikawa (Hiroshima University), et al.
