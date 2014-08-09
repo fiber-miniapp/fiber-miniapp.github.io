@@ -23,6 +23,10 @@ Fiber is a suite of miniapps that are maintained and developed at RIKEN Advanced
 [[Download source](https://github.com/fiber-miniapp/ngsa-mini/archive/1.0.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/ngsa-mini)]
 
+### Mailing List
+
+New miniapps and version upgrades will be announced at the [Users Group mailing list](https://groups.google.com/d/forum/fiber-miniapp-users). Subscribe the list by sending an empty email to <fiber-miniapp-users+subscribe@googlegroups.com> or get [RSS updates](https://groups.google.com/forum/feed/fiber-miniapp-users/msgs/rss.xml?num=15).
+
 ### Fiber Developers
 
 - Naoya Maruyama ([RIKEN AICS](http://www.aics.riken.jp))
@@ -31,8 +35,6 @@ Fiber is a suite of miniapps that are maintained and developed at RIKEN Advanced
 - Yukihiro Komura ([RIKEN AICS](http://www.aics.riken.jp))
 - Shinichiro Takizawa ([RIKEN AICS](http://www.aics.riken.jp))
 - Motohiko Matsuda ([RIKEN AICS](http://www.aics.riken.jp))
-
-Send email <miniapp@riken.jp> for further information.
 
 ### Collaborators
 
