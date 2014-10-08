@@ -35,6 +35,9 @@ See the [full archive of news](news).
 <br />
 [[Download source](https://github.com/fiber-miniapp/ngsa-mini/archive/1.0.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/ngsa-mini)]
+- **MODYLAS-MINI**: A miniapp based on a general-purpose molecular dynamics simulation program MODYLAS. <br />
+[[Go to download site](http://hpci-aplfs.aics.riken.jp/fiber/modylas-mini.html)]
+
 
 ### Documentation
 
