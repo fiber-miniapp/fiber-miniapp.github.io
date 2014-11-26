@@ -33,7 +33,7 @@ See the [full archive of news](news).
 [[View development repository]( https://github.com/fiber-miniapp/mVMC-mini)]
 - **NGS Analyzer-MINI**: A miniapp for genome analysis.  NGS Analyzer performs human genome analysis to identify genetic differences among persons or cancer cell's mutations.
 <br />
-[[Download source](https://github.com/fiber-miniapp/ngsa-mini/archive/1.0.tar.gz)]
+[[Download source](https://github.com/fiber-miniapp/ngsa-mini/archive/1.0.1.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/ngsa-mini)]
 - **MODYLAS-MINI**: A miniapp based on a general-purpose molecular dynamics simulation program MODYLAS. <br />
 [[Go to download site](http://hpci-aplfs.aics.riken.jp/fiber/modylas-mini.html)]
