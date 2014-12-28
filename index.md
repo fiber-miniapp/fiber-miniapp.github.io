@@ -39,7 +39,7 @@ See the [full archive of news](news).
 [[Go to download site](http://hpci-aplfs.aics.riken.jp/fiber/modylas-mini.html)]
 - **NTChem-MINI**: An ab-initio quantum chemistry miniapp for the molecular electronic structure calculation
 <br />
-[[Download source](https://github.com/fiber-miniapp/ntchem-mini/archive/1.0.tar.gz)]
+[[Download source](https://github.com/fiber-miniapp/ntchem-mini/archive/1.1.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/ntchem-mini)]
 
 ### Documentation
