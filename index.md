@@ -27,18 +27,15 @@ See the [full archive of news](news).
 - **NICAM-DC-MINI**: A miniapp based on NICAM-DC that is derived from NICAM (Nonhydrostatic ICosahedral Atmospheric Model).  <br />
 [[Download source](https://github.com/fiber-miniapp/nicam-dc-mini/archive/1.0.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/nicam-dc-mini)]
-- **mVMC-MINI**: A suite of mVMC program and test data.  mVMC analyzes the physical characteristics of the strongly correlated electron systems.
-<br />
+- **mVMC-MINI**: A suite of mVMC program and test data.  mVMC analyzes the physical characteristics of the strongly correlated electron systems. <br />
 [[Download source](https://github.com/fiber-miniapp/mVMC-mini/archive/1.0.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/mVMC-mini)]
-- **NGS Analyzer-MINI**: A miniapp for genome analysis.  NGS Analyzer performs human genome analysis to identify genetic differences among persons or cancer cell's mutations.
-<br />
+- **NGS Analyzer-MINI**: A miniapp for genome analysis.  NGS Analyzer performs human genome analysis to identify genetic differences among persons or cancer cell's mutations. <br />
 [[Download source](https://github.com/fiber-miniapp/ngsa-mini/archive/1.0.1.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/ngsa-mini)]
 - **MODYLAS-MINI**: A miniapp based on a general-purpose molecular dynamics simulation program MODYLAS. <br />
-[[Go to download site](http://hpci-aplfs.aics.riken.jp/fiber/modylas-mini.html)]
-- **NTChem-MINI**: An ab-initio quantum chemistry miniapp for the molecular electronic structure calculation
-<br />
+[[Go to download site](https://hpci-aplfs.r-ccs.riken.jp/fiber/modylas-mini.html)]
+- **NTChem-MINI**: An ab-initio quantum chemistry miniapp for the molecular electronic structure calculation <br />
 [[Download source](https://github.com/fiber-miniapp/ntchem-mini/releases/download/1.1/ntchem-mini-1.1.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/ntchem-mini)]
 - **FFB-MINI**: A miniapp based on a general-purpose thermal flow FEM program, FrontFlow/blue. <br />
