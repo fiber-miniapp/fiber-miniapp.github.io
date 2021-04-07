@@ -34,7 +34,7 @@ See the [full archive of news](news).
 [[Download source](https://github.com/fiber-miniapp/ngsa-mini/archive/1.0.1.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/ngsa-mini)]
 - **MODYLAS-MINI**: A miniapp based on a general-purpose molecular dynamics simulation program MODYLAS. <br />
-[[Go to download site](https://hpci-aplfs.r-ccs.riken.jp/fiber/modylas-mini.html)]
+[[Go to download site](https://www.modylas.org/download_mini)]
 - **NTChem-MINI**: An ab-initio quantum chemistry miniapp for the molecular electronic structure calculation <br />
 [[Download source](https://github.com/fiber-miniapp/ntchem-mini/releases/download/1.1/ntchem-mini-1.1.tar.gz)]
 [[View development repository]( https://github.com/fiber-miniapp/ntchem-mini)]
